@@ -1,0 +1,26 @@
+﻿Выполняется установка сборки 'C:\Program Files\NCT\HMSBackup\HMSBackup.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Program Files\NCT\HMSBackup\HMSBackup.exe
+   logfile = C:\Program Files\NCT\HMSBackup\HMSBackup.InstallLog
+Устанавливается служба HMSBackupService...
+Служба HMSBackupService успешно установлена.
+Создается исходный EventLog HMSBackupService в журнале Application...
+Выполняется фиксация сборки 'C:\Program Files\NCT\HMSBackup\HMSBackup.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Program Files\NCT\HMSBackup\HMSBackup.exe
+   logfile = C:\Program Files\NCT\HMSBackup\HMSBackup.InstallLog
+Installing assembly 'D:\HMSBackupService\HMSBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HMSBackupService\HMSBackup.InstallLog
+   assemblypath = D:\HMSBackupService\HMSBackup.exe
+Installing service HMSBackupService...
+Service HMSBackupService has been successfully installed.
+Creating EventLog source HMSBackupService in log Application...
+Committing assembly 'D:\HMSBackupService\HMSBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HMSBackupService\HMSBackup.InstallLog
+   assemblypath = D:\HMSBackupService\HMSBackup.exe

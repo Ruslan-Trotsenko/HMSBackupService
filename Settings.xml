@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+- <Base Name="master" Time="17:33" TimeOut="60" BackupDaysInterval="1" IsLogBackup="False">
+  <ConnctionString>Data Source=park-hotel\sqlexpress;Initial Catalog=servio;Persist Security Info=True;User ID=sa;Password=expsolsa;</ConnctionString> 
+  <LogDir /> 
+  </Base>
+- <Base Name="msdb" Time="17:33" TimeOut="60" BackupDaysInterval="1" IsLogBackup="False">
+  <ConnctionString>Data Source=park-hotel\sqlexpress;Initial Catalog=servio;Persist Security Info=True;User ID=sa;Password=expsolsa;</ConnctionString> 
+  <LogDir /> 
+  </Base>
+- <Base Name="SERVIO" Time="17:33" TimeOut="3600" BackupDaysInterval="1" IsLogBackup="False">
+  <ConnctionString>Data Source=park-hotel\sqlexpress;Initial Catalog=servio;Persist Security Info=True;User ID=sa;Password=expsolsa;</ConnctionString> 
+  </Base>
+
+</Settings>
